@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Examples\\.vscode\\example002_hellouser\\example003\\example003.csproj": {}
+    "C:\\Users\\user\\Desktop\\Examples\\example003\\example003.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Examples\\.vscode\\example002_hellouser\\example003\\example003.csproj": {
+    "C:\\Users\\user\\Desktop\\Examples\\example003\\example003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Examples\\.vscode\\example002_hellouser\\example003\\example003.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Examples\\example003\\example003.csproj",
         "projectName": "example003",
-        "projectPath": "C:\\Users\\user\\Desktop\\Examples\\.vscode\\example002_hellouser\\example003\\example003.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Examples\\example003\\example003.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Examples\\.vscode\\example002_hellouser\\example003\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Examples\\example003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
